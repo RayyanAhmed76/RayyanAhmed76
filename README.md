@@ -13,3 +13,11 @@
 👀 Looking for exciting projects? **Let’s connect!**
 
 
+<h2 align="center">⚒ Tech Stack ⚒</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode" />
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"/>
+</div>
+
