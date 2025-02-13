@@ -8,7 +8,7 @@
 
 🎯 I love solving complex problems and creating efficient, impactful systems. Whether it’s developing **modern web applications** or **exploring AI solutions**, I’m always eager to learn and contribute.  
 
-⚡ **Favorite Dev Quote:** "Code is like humor. If you have to explain it, it’s bad." — Cory House  
+⚡ **Favorite Dev Quote:** Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler 
 
 
 
