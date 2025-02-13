@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Engineer | Web & AI Enthusiast**  
 💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
 🔹 **Tech Stack:**  JavaScript, C++  
-🔹 **Web Dev:** React.js, Next.js, Tailwind CSS  
+🔹 **Web Dev:** React.js,Tailwind CSS  
 🔹 **Core Concepts:** Data Structures, OOP, SQL Databases  
 
 🎯 I love solving complex problems and creating efficient, impactful systems. Whether it’s developing **modern web applications** or **exploring AI solutions**, I’m always eager to learn and contribute.  
