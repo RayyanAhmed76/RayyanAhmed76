@@ -1,12 +1,15 @@
  Hi there 👋
 
-🚀 Frontend Developer | Computer Science Student
+🚀 **Aspiring Software Engineer | Web & AI Enthusiast**  
+💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
+🔹 **Tech Stack:** Python, JavaScript, C++  
+🔹 **Web Dev:** React.js, Next.js, Tailwind CSS  
+🔹 **Core Concepts:** Data Structures, OOP, SQL Databases  
 
-👨‍💻 Passionate about building responsive and dynamic web applications.
-💡 Currently diving deep into React.js & modern frontend development.
-🔧 Tech Stack: HTML, CSS, JavaScript, Tailwind CSS, React.js
-📚 Always learning & exploring new technologies.
+🎯 I love solving complex problems and creating efficient, impactful systems. Whether it’s developing **modern web applications** or **exploring AI solutions**, I’m always eager to learn and contribute.  
 
-🌱 Open to collaboration & exciting projects!
+⚡ **Favorite Dev Quote:** "Code is like humor. If you have to explain it, it’s bad." — Cory House  
+
+👀 Looking for exciting projects? **Let’s connect!**
 
 
