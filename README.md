@@ -18,6 +18,5 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,prisma" /><br>
     <img src="https://skillicons.dev/icons?i=github,vscode" />
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png"/>
 </div>
 
