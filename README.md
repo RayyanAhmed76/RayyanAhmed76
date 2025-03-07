@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋,I'm Rayyan Ahmed Khan</h1>
+<h1 align="center"> Hi 👋, I'm Rayyan Ahmed Khan</h1>
 
 🚀 **Aspiring Software Engineer | Web & AI Enthusiast**  
 💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
