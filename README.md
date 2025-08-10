@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋, I'm Rayyan Ahmed Khan</h1>
 
-🚀 **Aspiring Software Engineer | Web & AI Enthusiast**  
+🚀 **MERN Stack developer**  
 💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
 🔹 **Tech Stack:**  JavaScript, C++  
-🔹 **Web Dev:** React.js,Tailwind CSS  
+🔹 **Web Dev:** React.js,Express.js,Mongodb,Tailwind CSS,prisma  
 🔹 **Core Concepts:** Data Structures, OOP, SQL Databases  
 
 🎯 I love solving complex problems and creating efficient, impactful systems. Whether it’s developing **modern web applications** or **exploring AI solutions**, I’m always eager to learn and contribute.  
@@ -16,7 +16,7 @@
 <h2 align="center">⚒ Tech Stack ⚒</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,prisma" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,node,express,mongodb" /><br>
     <img src="https://skillicons.dev/icons?i=github,vscode" />
 </div>
 
