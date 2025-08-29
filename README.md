@@ -16,7 +16,7 @@
 <h2 align="center">⚒ Tech Stack ⚒</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,node,express,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,next,prisma,typescript,express,mongodb,redux" /><br>
     <img src="https://skillicons.dev/icons?i=github,vscode" />
 </div>
 
