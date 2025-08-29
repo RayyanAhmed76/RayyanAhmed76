@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Rayyan Ahmed Khan</h1>
 
-🚀 **MERN Stack developer**  
+🚀 **Full Stack developer**  
 💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
 🔹 **Tech Stack:**  JavaScript, C++  
 🔹 **Web Dev:** React.js,Express.js,Mongodb,Tailwind CSS,prisma  
