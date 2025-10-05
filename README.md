@@ -3,7 +3,7 @@
 🚀 **Full Stack developer**  
 💡 Passionate about **building scalable software solutions** and exploring **AI-driven technologies**  
 🔹 **Tech Stack:**  JavaScript, TypeScript, C++  
-🔹 **Web Dev:** React.js,Express.js,Mongodb,Tailwind CSS,prisma  
+🔹 **Web Dev:** React.js,Next.js,Express.js,Mongodb,Tailwind CSS,prisma  
 🔹 **Core Concepts:** Data Structures, OOP, SQL Databases  
 
 🎯 I love solving complex problems and creating efficient, impactful systems. Whether it’s developing **modern web applications** or **exploring AI solutions**, I’m always eager to learn and contribute.  
